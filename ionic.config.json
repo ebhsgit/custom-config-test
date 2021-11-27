@@ -1,5 +1,7 @@
 {
   "name": "custom-config-test",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
